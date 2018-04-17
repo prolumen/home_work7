@@ -24,7 +24,7 @@ public class MyExeption{
         } catch (ArithmeticException e){
             System.out.println("Ошибка деления на ноль");
         } finally {
-            System.out.println("ПРограмма завершена");
+            System.out.println("Программа завершена");
 
         }
     }
